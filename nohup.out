@@ -1,0 +1,277 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:19:45.759 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:19:47.747 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -30.684
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99       4624.39    0.00326975       401.493           1           1      120   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       4673.03     0.0010546       697.358      0.2111      0.2111      240   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     251       4684.91   6.67243e-05       195.849   3.537e-07       0.001      341  LS failed, Hessian reset 
+     299       4695.42    0.00117855       661.477       0.287       0.287      404   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       4700.67     0.0015316       192.243           1           1      526   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       4702.95   0.000856989        67.973           1           1      648   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599       4705.27    0.00513754       390.183           1           1      774   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699       4707.02   0.000933554       94.2523           1           1      896   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     750       4707.34   3.76726e-05       112.996   2.615e-07       0.001     1009  LS failed, Hessian reset 
+     783       4707.38   1.39975e-05       74.8787   1.581e-07       0.001     1091  LS failed, Hessian reset 
+     799       4707.38   1.11781e-06       59.3793           1           1     1111   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     806       4707.38   5.49443e-06       65.3341   6.375e-08       0.001     1156  LS failed, Hessian reset 
+     823       4707.38   2.62947e-07       78.9593      0.3839           1     1181   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:22:56.160 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:22:58.194 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -30.684
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99       4624.39    0.00326975       401.493           1           1      120   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       4673.03     0.0010546       697.358      0.2111      0.2111      240   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     251       4684.91   6.67243e-05       195.849   3.537e-07       0.001      341  LS failed, Hessian reset 
+     299       4695.42    0.00117855       661.477       0.287       0.287      404   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       4700.67     0.0015316       192.243           1           1      526   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       4702.95   0.000856989        67.973           1           1      648   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599       4705.27    0.00513754       390.183           1           1      774   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699       4707.02   0.000933554       94.2523           1           1      896   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     750       4707.34   3.76726e-05       112.996   2.615e-07       0.001     1009  LS failed, Hessian reset 
+     783       4707.38   1.39975e-05       74.8787   1.581e-07       0.001     1091  LS failed, Hessian reset 
+     799       4707.38   1.11781e-06       59.3793           1           1     1111   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     806       4707.38   5.49443e-06       65.3341   6.375e-08       0.001     1156  LS failed, Hessian reset 
+     823       4707.38   2.62947e-07       78.9593      0.3839           1     1181   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:29:26.976 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:29:29.112 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -30.684
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99       4624.39    0.00326975       401.493           1           1      120   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       4673.03     0.0010546       697.358      0.2111      0.2111      240   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     251       4684.91   6.67243e-05       195.849   3.537e-07       0.001      341  LS failed, Hessian reset 
+     299       4695.42    0.00117855       661.477       0.287       0.287      404   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       4700.67     0.0015316       192.243           1           1      526   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       4702.95   0.000856989        67.973           1           1      648   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599       4705.27    0.00513754       390.183           1           1      774   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699       4707.02   0.000933554       94.2523           1           1      896   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     750       4707.34   3.76726e-05       112.996   2.615e-07       0.001     1009  LS failed, Hessian reset 
+     783       4707.38   1.39975e-05       74.8787   1.581e-07       0.001     1091  LS failed, Hessian reset 
+     799       4707.38   1.11781e-06       59.3793           1           1     1111   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     806       4707.38   5.49443e-06       65.3341   6.375e-08       0.001     1156  LS failed, Hessian reset 
+     823       4707.38   2.62947e-07       78.9593      0.3839           1     1181   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:35:41.580 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:35:43.693 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -49.245
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        6115.4     0.0161836       2194.67           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       6158.74     0.0064737       630.614           1           1      238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     280       6182.65   8.98575e-05       347.869   1.866e-07       0.001      374  LS failed, Hessian reset 
+     299       6185.11    0.00483272       346.058           1           1      395   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       6192.56    0.00880579       253.069           1           1      514   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       6199.15    0.00150595       246.276           1           1      638   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     575       6200.95   7.65186e-05        288.56   1.743e-07       0.001      770  LS failed, Hessian reset 
+     599       6201.52   0.000486744       102.696           1           1      800   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     663       6201.83   4.26336e-05        142.81   4.641e-07       0.001      923  LS failed, Hessian reset 
+     699       6201.85    1.5874e-06       61.6977      0.4258      0.4258      970   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     738       6201.96   2.75281e-05        107.26   1.967e-07       0.001     1057  LS failed, Hessian reset 
+     787       6202.03   6.85644e-07       56.3113      0.4019           1     1128   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:38:20.083 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:38:21.957 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -49.245
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        6115.4     0.0161836       2194.67           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       6158.74     0.0064737       630.614           1           1      238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     280       6182.65   8.98575e-05       347.869   1.866e-07       0.001      374  LS failed, Hessian reset 
+     299       6185.11    0.00483272       346.058           1           1      395   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       6192.56    0.00880579       253.069           1           1      514   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       6199.15    0.00150595       246.276           1           1      638   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     575       6200.95   7.65186e-05        288.56   1.743e-07       0.001      770  LS failed, Hessian reset 
+     599       6201.52   0.000486744       102.696           1           1      800   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     663       6201.83   4.26336e-05        142.81   4.641e-07       0.001      923  LS failed, Hessian reset 
+     699       6201.85    1.5874e-06       61.6977      0.4258      0.4258      970   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     738       6201.96   2.75281e-05        107.26   1.967e-07       0.001     1057  LS failed, Hessian reset 
+     787       6202.03   6.85644e-07       56.3113      0.4019           1     1128   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:40:38.891 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:40:41.894 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -49.245
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        6115.4     0.0161836       2194.67           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       6158.74     0.0064737       630.614           1           1      238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     280       6182.65   8.98575e-05       347.869   1.866e-07       0.001      374  LS failed, Hessian reset 
+     299       6185.11    0.00483272       346.058           1           1      395   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       6192.56    0.00880579       253.069           1           1      514   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       6199.15    0.00150595       246.276           1           1      638   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     575       6200.95   7.65186e-05        288.56   1.743e-07       0.001      770  LS failed, Hessian reset 
+     599       6201.52   0.000486744       102.696           1           1      800   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     663       6201.83   4.26336e-05        142.81   4.641e-07       0.001      923  LS failed, Hessian reset 
+     699       6201.85    1.5874e-06       61.6977      0.4258      0.4258      970   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     738       6201.96   2.75281e-05        107.26   1.967e-07       0.001     1057  LS failed, Hessian reset 
+     787       6202.03   6.85644e-07       56.3113      0.4019           1     1128   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:46:07.053 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:46:08.956 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -49.245
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        6115.4     0.0161836       2194.67           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       6158.74     0.0064737       630.614           1           1      238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     280       6182.65   8.98575e-05       347.869   1.866e-07       0.001      374  LS failed, Hessian reset 
+     299       6185.11    0.00483272       346.058           1           1      395   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       6192.56    0.00880579       253.069           1           1      514   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       6199.15    0.00150595       246.276           1           1      638   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     575       6200.95   7.65186e-05        288.56   1.743e-07       0.001      770  LS failed, Hessian reset 
+     599       6201.52   0.000486744       102.696           1           1      800   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     663       6201.83   4.26336e-05        142.81   4.641e-07       0.001      923  LS failed, Hessian reset 
+     699       6201.85    1.5874e-06       61.6977      0.4258      0.4258      970   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     738       6201.96   2.75281e-05        107.26   1.967e-07       0.001     1057  LS failed, Hessian reset 
+     787       6202.03   6.85644e-07       56.3113      0.4019           1     1128   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://34.91.229.211:8501
+
+2021-04-29 13:59:10.820 NumExpr defaulting to 2 threads.
+[*********************100%***********************]  1 of 1 completed2021-04-29 13:59:12.856 Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+Initial log joint probability = -49.245
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        6115.4     0.0161836       2194.67           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199       6158.74     0.0064737       630.614           1           1      238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     280       6182.65   8.98575e-05       347.869   1.866e-07       0.001      374  LS failed, Hessian reset 
+     299       6185.11    0.00483272       346.058           1           1      395   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399       6192.56    0.00880579       253.069           1           1      514   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499       6199.15    0.00150595       246.276           1           1      638   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     575       6200.95   7.65186e-05        288.56   1.743e-07       0.001      770  LS failed, Hessian reset 
+     599       6201.52   0.000486744       102.696           1           1      800   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     663       6201.83   4.26336e-05        142.81   4.641e-07       0.001      923  LS failed, Hessian reset 
+     699       6201.85    1.5874e-06       61.6977      0.4258      0.4258      970   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     738       6201.96   2.75281e-05        107.26   1.967e-07       0.001     1057  LS failed, Hessian reset 
+     787       6202.03   6.85644e-07       56.3113      0.4019           1     1128   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+  Stopping...
